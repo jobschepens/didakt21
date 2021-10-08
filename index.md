@@ -1,3 +1,3 @@
-[Syllabus](https://jobschepens.github.io/didakt/syllabus.html) 
+[Syllabus](https://jobschepens.github.io/didakt21/syllabus.html) 
 
-[Detailed schedule](https://jobschepens.github.io/didakt/detailedschedule.html) 
+[Detailed schedule](https://jobschepens.github.io/didakt21/detailedschedule.html) 
