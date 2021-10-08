@@ -50,7 +50,7 @@ Lernziele
 
 # Seminarstruktur
 
-Die Idee ist, dass wir jede Woche ein interaktives Zoom Meeting haben, um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche Lesen ist ein wichtiger Bestandteil des Seminars. Im Ordner „Seminarliteratur“ finden Sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten.
+Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche Lesen ist ein wichtiger Bestandteil des Seminars. Im Ordner „Seminarliteratur“ finden Sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten.
 
 Es gibt fast jede Woche eine unbenotete Aufgabe. Für die meisten Aufgaben gibt es Hinweise, auf welche Begriffe und Probleme Sie bei der Interpretation besonders achten sollten. Neben der Bearbeitung von Aufgaben, ist geplant, dass Sie jede Woche einen Eintrag in Ihr Portfolio machen. Alle Texte müssen bearbeitet werden (i.e. gründlich lesen). Sie sollten Begriffe, die Ihnen unbekannt sind, nachschlagen und Fragen, die Sie über die Textarbeit allein nicht klären können, im Forum oder im Seminar stellen. Sie sollten einer Kommiliton_in in Ihren eigenen Worten erklären können, worum es in dem Text geht. Einige der Texte, die wir im Seminar bearbeiten, sind sehr philosophisch. Lassen Sie sich nicht entmutigen, wenn Sie mal eine Passage nicht verstehen. Die Hinweise haben die Funktion, Sie selbst zum Nachdenken über den Text anzuregen. Das könnten auch Fragen sein, die über das Textverständnis hinausgehen und zum Beispiel danach fragen, wie das im Text beschriebene Problem auch heute noch Wirkung zeigt. Eine solche fragende Haltung wäre der eigentliche Lernerfolg des Seminars.
 
@@ -62,7 +62,7 @@ Wir werden einander respektieren und es sollte für jeden eine sichere Lernatmos
 
 Das Forum ist eine gute Möglichkeit, Kontakt untereinander zu halten und sich inhaltlich miteinander auseinanderzusetzen. Allerdings können solche Foren auch dazu verleiten, sich nicht immer vor Augen zu führen, dass die eigenen Aussagen unter Umständen auf andere verletzend wirken können. Ich bitte Sie deshalb dringend: Gehen Sie in Ihren schriftlichen Äußerungen bitte immer wertschätzend und konstruktiv miteinander um.
 
-Die Seminarsitzungen sind nicht verpflichtend. Die Sitzungen sind dazu gedacht, dass Sie die Möglichkeit haben, über das, was Sie gelesen und erarbeitet haben, mit mir und Ihren Kommiliton_innen ins Gespräch zu kommen, Fragen zu besprechen und strittige Themen zu diskutieren.
+Die Sitzungen sind dazu gedacht, dass Sie die Möglichkeit haben, über das, was Sie gelesen und erarbeitet haben, mit mir und Ihren Kommiliton_innen ins Gespräch zu kommen, Fragen zu besprechen und strittige Themen zu diskutieren. Teilnahme an die Seminarsitzungen ist nicht verpflichtet. 
 
 Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht werden. Das gilt sowohl für Dateien, die von mir hochgeladen werden als auch für Dateien, die von Studierenden hochgeladen werden.
 
