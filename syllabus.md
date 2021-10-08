@@ -50,15 +50,15 @@ Lernziele
 
 # Seminarstruktur
 
-Die Idee ist, dass wir jede Woche eine interaktiven Zoom Meeting haben um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche lesen ist ein wichtiges Teil des Seminars. Im Ordner „Seminarliteratur“ finden sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten. 
+Die Idee ist, dass wir jede Woche ein interaktives Zoom Meeting haben, um die Texte und Aufgaben zu besprechen. Wir werden Moodle für Aufgaben, das Diskussionsforum, und Literatur benutzen. Das wöchentliche Lesen ist ein wichtiger Bestandteil des Seminars. Im Ordner „Seminarliteratur“ finden Sie alle Texte, die Sie während des Semesters für dieses Seminar bearbeiten sollten.
 
-Es gibt fast jeder Woche eine unbenotete Aufgabe. Für die meisten Aufgaben gibt es Hinweisen, auf welche Begriffe und Probleme Sie bei der Interpretation besonders achten sollten. Neben der Bearbeitung von Aufgaben ist geplant, dass Sie jede Woche einen Eintrag in Ihr Portfolio machen. Alle Texte müssen bearbeitet werden (i.e. gründlich lesen). Sie sollten Begriffe, die Ihnen unbekannt sind, nachschlagen und Fragen, die Sie über die Textarbeit allein nicht klären können, im Forum oder im Seminar stellen. Sie sollten einer Kommiliton_in in Ihren eigenen Worten erklären können, worum es in dem Text geht. Einige der Texte, die wir im Seminar bearbeiten, sind sehr philosophisch. Lassen Sie sich nicht entmutigen, wenn Sie mal eine Passage nicht verstehen. Die Hinweise haben die Funktion, Sie selbst zum Nachdenken über den Text anzuregen. Das könnten auch Fragen sein, die über das Textverständnis hinausgehen und zum Beispiel danach fragen, wie das im Text beschriebene Problem auch heute noch Wirkung zeigt. Eine solche fragende Haltung wäre der eigentliche Lernerfolg des Seminars.
+Es gibt fast jede Woche eine unbenotete Aufgabe. Für die meisten Aufgaben gibt es Hinweise, auf welche Begriffe und Probleme Sie bei der Interpretation besonders achten sollten. Neben der Bearbeitung von Aufgaben, ist geplant, dass Sie jede Woche einen Eintrag in Ihr Portfolio machen. Alle Texte müssen bearbeitet werden (i.e. gründlich lesen). Sie sollten Begriffe, die Ihnen unbekannt sind, nachschlagen und Fragen, die Sie über die Textarbeit allein nicht klären können, im Forum oder im Seminar stellen. Sie sollten einer Kommiliton_in in Ihren eigenen Worten erklären können, worum es in dem Text geht. Einige der Texte, die wir im Seminar bearbeiten, sind sehr philosophisch. Lassen Sie sich nicht entmutigen, wenn Sie mal eine Passage nicht verstehen. Die Hinweise haben die Funktion, Sie selbst zum Nachdenken über den Text anzuregen. Das könnten auch Fragen sein, die über das Textverständnis hinausgehen und zum Beispiel danach fragen, wie das im Text beschriebene Problem auch heute noch Wirkung zeigt. Eine solche fragende Haltung wäre der eigentliche Lernerfolg des Seminars.
 
 Während des Seminars werden wir Diskussionsgruppen bilden. In den Gruppen könnten Sie dann die Texte entlang den Interpretationshinweisen gemeinsam bearbeiten und diskutieren und könnten so von den Überlegungen der jeweils anderen profitieren.
 
 Sie können mich gerne anschreiben, wenn Sie Fragen haben, Rückmeldungen brauchen und/ oder Anmerkungen machen möchten.
 
-Wir werden einander respektieren und es sollte für jeden eine sichere Lernatmosphäre geben. Wenn sie sich unkomfortabel fühlen, können sie mich oder das zentrale oder dezentrale TU Complaints Office kontaktieren.
+Wir werden einander respektieren und es sollte für jeden eine sichere Lernatmosphäre geben. Wenn Sie sich, mit einem der Lerninhalte o.ä. unwohl fühlen, können sie mich, oder das zentrale, oder dezentrale TU Complaints Office kontaktieren.
 
 Das Forum ist eine gute Möglichkeit, Kontakt untereinander zu halten und sich inhaltlich miteinander auseinanderzusetzen. Allerdings können solche Foren auch dazu verleiten, sich nicht immer vor Augen zu führen, dass die eigenen Aussagen unter Umständen auf andere verletzend wirken können. Ich bitte Sie deshalb dringend: Gehen Sie in Ihren schriftlichen Äußerungen bitte immer wertschätzend und konstruktiv miteinander um.
 
@@ -69,25 +69,26 @@ Keine der Dateien im Moodle dürfen an andere weitergegeben oder veröffentlicht
 
 # Studienleistung: Portfolio (+ Aufgaben)
 
-Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, dass dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedene kurze Textabschnitte. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage basiert auf eine der Texte überlegen. Dazu formulieren Sie dann diskursiv bzw. ausgebreitete Antworte oder relevante Gedanken. Versuche das so Objektiv wie möglich zu machen, am liebsten mit konkretem Bezug auf wissenschaftliche Quellen (z.B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Das Endresultat kann man sehen als eine "explorative Vorstufe" fuer eine mogligliche wissenschaftliche Studie. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentieren.
+Um das Seminar zu bestehen, müssen Sie ein Portfolio schreiben, das dokumentiert, wie Ihre Auseinandersetzung mit dem Thema und mit den Texten aussieht. Das Portfolio besteht aus verschiedenen kurzen Textabschnitten. Sie sollten sich für jeden Abschnitt zuerst eine konkrete Forschungsfrage, basierend auf einen der Texte, überlegen. Dazu formulieren Sie dann diskursive bzw. ausführliche Antworten oder relevante Gedanken. Versuchen Sie das so objektiv wie möglich zu machen, am liebsten mit einem konkreten Bezug auf wissenschaftliche Quellen (z.B. ein Zeitschriftartikel, Buchkapitel oder ähnliches). Das Endresultat kann man als eine "explorative Vorstufe" für eine mögliche wissenschaftliche Studie sehen. Das Ziel ist, ihre Gedanken zu dokumentieren. Es ist eine Art Tagebuch, wo sie interessante, kritische, überraschende, usw. Aspekte dokumentieren.
 
-Folgende Fragen können leitend sein: 
-- Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant? 
-- Warum/ inwiefern? 
-- Welche aktuellen Bezüge gibt es? 
-- An welchen Gedanken aus den Texten gibt es Kritik – und welche? 
-- An welchen Stellen gibt es Zusammenhänge zu anderen Theorien? 
-- Welche Gedanken sollte man weiterverfolgen? 
-- Welche Fragen bleiben offen? 
+Folgende Fragen können leitend sein:
 
-Die Ordnung von Abschnitte kann chronologisch sein, aber auch nach Thema, oder nach der Art des Kommentars (z.B. kritisches Kommentar zuerst oder zuletzt). Reflektiere über das gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau dr. Barbara Platzer für die spezifischen Angaben.
+- Welche Gedanken / Ideen aus den jeweiligen Texten sind interessant?
+- Warum/ inwiefern?
+- Welche aktuellen Bezüge gibt es?
+- An welchen Gedanken aus den Texten gibt es Kritik – und welche?
+- An welchen Stellen gibt es Zusammenhänge zu anderen Theorien?
+- Welche Gedanken sollte man weiterverfolgen?
+- Welche Fragen bleiben offen?
 
-Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind. 
+Die Anordnung der Abschnitte kann chronologisch, aber auch thematisch, oder nach der Art des Kommentars (z.B. kritisches Kommentar zuerst oder zuletzt) sein. Reflektieren Sie über das Gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und Sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau Dr. Barbara Platzer für die spezifischen Angaben.
+
+Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind.
  
 
 # Acknowledgements
 
-Verschiedene Menschen, ins besondere Frau dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
+Verschiedene Menschen, ins besondere Frau Dr. Barbara Platzer, haben an der Entwicklung von diesem Kurs beigetragen. Vielen Dank für diese Arbeit!
 
 
 # Seminarplanung
