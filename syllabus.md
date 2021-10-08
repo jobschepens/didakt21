@@ -81,7 +81,7 @@ Folgende Fragen können leitend sein:
 - Welche Gedanken sollte man weiterverfolgen?
 - Welche Fragen bleiben offen?
 
-Die Anordnung der Abschnitte kann chronologisch, aber auch thematisch, oder nach der Art des Kommentars (z.B. kritisches Kommentar zuerst oder zuletzt) sein. Reflektieren Sie über das Gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und Sie sollten bis spätestens 30.09.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau Dr. Barbara Platzer für die spezifischen Angaben.
+Die Anordnung der Abschnitte kann chronologisch, aber auch thematisch, oder nach der Art des Kommentars (z.B. kritisches Kommentar zuerst oder zuletzt) sein. Reflektieren Sie über das Gelernte, nachdem alle Abschnitte fertig bearbeitet sind. Das Portfolio sollte insgesamt 10–12 Seiten sein und Sie sollten bis spätestens 01.03.2021 eine überarbeitete Form des Portfolios als PDF per Mail einreichen. Die Idee „Portfolio als Studienleistung“ hat sich über die Jahre hin bewährt. Danke an Frau Dr. Barbara Platzer für die spezifischen Angaben.
 
 Bei der Überarbeitung sollten Sie alles, was Sie geschrieben haben, daraufhin prüfen, ob es für die Veröffentlichung bestimmt ist; das betrifft sowohl den Inhalt als auch die Form. Bitte stellen Sie sicher, dass das überarbeitete Portfolio aus ganzen Sätzen und nicht aus Stichworten besteht. Es sollte möglichst aussagekräftige Gedanken enthalten und möglichst wenig Wiederholungen. Es sollte erkennbar sein, dass Sie sich selbständig mit den Themen auseinandergesetzt haben und welche Fragen noch offen sind.
  

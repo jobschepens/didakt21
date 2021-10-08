@@ -159,6 +159,6 @@ Themen
 - wird zeitnah bekannt gegeben
 
 
-## Before 31.03.2021 (Enddatum WiSe21/22)
+## Before 01.03.2021 (Enddatum WiSe21/22: 31.03.2021)
 
 - deadline Abgabe Portfolio
