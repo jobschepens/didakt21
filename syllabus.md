@@ -93,7 +93,7 @@ Verschiedene Menschen, ins besondere Frau Dr. Barbara Platzer, haben an der Entw
 
 # Seminarplanung
 
-[Detaillierte Planung](https://jobschepens.github.io/didakt/detailedschedule.html)
+[Detaillierte Planung](https://jobschepens.github.io/didakt21/detailedschedule.html)
 
 
 # Hintergrundliteratur / Allgemeine Einführungen
