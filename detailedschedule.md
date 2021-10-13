@@ -5,6 +5,7 @@
 Themen
 - Organisatorische und inhaltliche Einführung in das Seminar
 - [Folien](https://jobschepens.github.io/didakt21/folien/week1.pptx)
+- Optional: Terhart, E. (2013). Guter Unterricht: Die Perspektiven empirischer Unterrichtsforschung und allgemeiner Didaktik. In: Erziehungswissenschaft und Lehrebildung. Waxmann. 
 
 **Aufgabe (Nachbereitung)**
 - Lehrerfahrung 
@@ -150,7 +151,7 @@ Themen
 - Unterrichtsqualität aus der Perspektive der Empirische Bildungsforschung
 
 Vorzubereitende Texte
-- Hasselhorn, M. & Gold, A. 5.2 Dimensionen der Unterrichtsqualität (S. 245-252) kogn akt + unterst + fuehrung
+- Hasselhorn, M. & Gold, A. 5.2 Dimensionen der Unterrichtsqualität (S. 245-252) 
 
 
 ## Week 15 (02.02.2022)
