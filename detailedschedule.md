@@ -62,7 +62,7 @@ Vorzubereitende Inhalt
 
 ## Week  5 (10.11.2021)
 
-Offene Sitzung (kein Text) / Ringvorlesung
+Offene Sitzung (kein Text und kein Praesenz(!))
 
 
 ## Week  6 (17.11.2021)
