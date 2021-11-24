@@ -84,7 +84,7 @@ Vorzubereitende Texte
 
 Themen
 - Die kritisch-konstruktive Didaktik (Klafki)
-- [Folien](https://jobschepens.github.io/didakt21/folien/week8.pptx)
+- [Folien](https://jobschepens.github.io/didakt21/folien/week7.pptx)
 
 Vorzubereitende Texte
 - Koch-Priewe, et al. (2016): 117-132. 
