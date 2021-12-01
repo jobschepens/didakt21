@@ -91,16 +91,20 @@ Vorzubereitende Texte
 
 Nachbereitung
 - Fuenfter Eintrag im Portfolio
-- Optional: [Podcast Adorno](https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html)
+- Optional: [Podcast Adorno](https://www.swr.de/swr2/leben-und-gesellschaft/theodor-w-adorno-todestag-50-100.html), [Direkt](https://www.swr.de/swr2/wissen/av-o1142094-100.html)
  
 
 ## Week  8 (01.12.2021)
 
 Themen
 - Pädagogische Zugänge zum Lernen
+- [Folien](https://jobschepens.github.io/didakt21/folien/week8.pptx)
 
 Vorzubereitende Texte
 - Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (2014): Pädagogische Zugänge zum Lernen. Eine Einleitung. In: Dies. (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 7-19.
+
+Nachbereitung
+- 6. Eintrag im Portfolio
 
 
 ## Week  9 (08.12.2021)
@@ -110,6 +114,9 @@ Themen
 
 Vorzubereitende Texte
 - Auernheimer, Georg (2014): Interkulturelles Lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 153-162.
+
+Nachbereitung
+- 7. Eintrag im Portfolio
 
 
 ## Week 10 (15.12.2021)
