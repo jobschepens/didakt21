@@ -121,16 +121,16 @@ Nachbereitung
 
 ## Week 10 (15.12.2021)
 
+Offene Sitzung (kein Text)
+
+
+## Week 11 (22.12.2021)
+
 Themen
 - Interkulturelles Lernen (Stereotypes)
 
 Vorzubereitende Texte
 - Ted-Talk von Chimamanda Ngozi Adichie: „The danger of telling a single story”
-
-
-## Week 11 (22.12.2021)
-
-Offene Sitzung (kein Text)
 
 
 ## Week 12 (12.01.2022)
