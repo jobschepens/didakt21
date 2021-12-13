@@ -111,6 +111,8 @@ Nachbereitung
 
 Themen
 - Interkulturelles Lernen (Rassismus u.a.)
+- [Folien](https://jobschepens.github.io/didakt21/folien/week9.pptx)
+
 
 Vorzubereitende Texte
 - Auernheimer, Georg (2014): Interkulturelles Lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 153-162.
