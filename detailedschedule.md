@@ -144,6 +144,9 @@ Vorzubereitende Texte
 - Sting, Stephan (2014): Überleben lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 176-187
 - Optional: [Podcast über Armut in der Corona-Krise](https://www.deutschlandfunkkultur.de/armutsforscher-zu-corona-folgen-ich-sehe-hier-eine-tendenz.1008.de.html?dram:article_id=475214)
 
+Nachbereitung
+- 8. Eintrag im Portfolio
+
 
 ## Week 13 (19.01.2022)
 
@@ -153,6 +156,9 @@ Themen
 Vorzubereitende Texte
 - Blömeke, S., & Müller, C. (2009). Zum Zusammenhang von Allgemeiner Didaktik und Lehr-Lernforschung im Unterrichtsgeschehen. In M. A. Meyer, M. Prenzel, & S. Hellekamps (Eds.), Perspektiven der Didaktik: Zeitschrift für Erziehungswissenschaft (pp. 239–258). VS Verlag für Sozialwissenschaften. https://doi.org/10.1007/978-3-531-91775-7_16
 
+Nachbereitung
+- 9. Eintrag im Portfolio
+
 
 ## Week 14 (26.01.2022)
 
@@ -161,6 +167,9 @@ Themen
 
 Vorzubereitende Texte
 - Hasselhorn, M. & Gold, A. 5.2 Dimensionen der Unterrichtsqualität (S. 245-252) 
+
+Nachbereitung
+- 10. Eintrag im Portfolio
 
 
 ## Week 15 (02.02.2022)
