@@ -139,6 +139,7 @@ Vorzubereitende Texte
 
 Themen
 -  Überleben lernen
+- [Folien](https://jobschepens.github.io/didakt21/folien/week12.pptx)
 
 Vorzubereitende Texte
 - Sting, Stephan (2014): Überleben lernen. In: Göhlich, Michael/ Wulf, Christoph/ Zirfaß, Jörg (Hrsg.): Pädagogische Theorien des Lernens. Weinheim: Beltz, S. 176-187
